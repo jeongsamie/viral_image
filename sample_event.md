@@ -1,4 +1,4 @@
-[![오나홀 온리원 샘플](https://msdepart.com/images/event_sample_prds.jpg" 오나홀 샘플 상품전 메인 이미지")](https://msdepart.com/shop/event.php?ev_id=1576651833&bypass=on)
+[![오나홀 온리원 샘플](https://msdepart.com/images/event_sample_prds.jpg "오나홀 샘플 상품전 메인 이미지")](https://msdepart.com/shop/event.php?ev_id=1576651833&bypass=on)
 
 ### 오나홀을 가장 싸게 사는법, 샘플 할인 [바로가기](https://msdepart.com/shop/event.php?ev_id=1576651833&bypass=on) ###
 

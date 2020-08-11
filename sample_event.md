@@ -1,6 +1,6 @@
-[![오나홀 온리원 샘플](https://msdepart.com/images/event_sample_prds.jpg "오나홀 샘플 상품전 메인 이미지")](https://msdepart.com/shop/event.php?ev_id=1576651833&bypass=on)
+[![오나홀 온리원 샘플](https://msdepart.com/images/event_sample_prds.jpg "오나홀 샘플 할인전 메인 이미지")](https://msdepart.com/shop/event.php?ev_id=1576651833&bypass=on)
 
-### 오나홀을 가장 싸게 사는법, 샘플 할인 [바로가기](https://msdepart.com/shop/event.php?ev_id=1576651833&bypass=on) ###
+### 오나홀을 가장 싸게 사는법, 샘플 할인전 [바로가기](https://msdepart.com/shop/event.php?ev_id=1576651833&bypass=on) ###
 
 **샘플은 사용된 제품이 아니라,** 수입통관 '심의'를 위해 별도 수입된 상품을 의미합니다.
 
@@ -20,4 +20,4 @@ ___
 
  
 
-### [오나홀 샘플 상품전 바로가기](https://msdepart.com/shop/event.php?ev_id=1576651833&bypass=on) ###
+### [오나홀 샘플 할인전 바로가기](https://msdepart.com/shop/event.php?ev_id=1576651833&bypass=on) ###
